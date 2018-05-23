@@ -2,5 +2,5 @@
 
 ### SERVER with FIREBASE
 
-### Admin Account
+### Access client
 Access the Client via https://kanban.thismylife.net/.
